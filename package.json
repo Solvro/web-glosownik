@@ -18,10 +18,12 @@
   },
   "prettier": "@solvro/config/prettier",
   "dependencies": {
+    "@t3-oss/env-core": "^0.13.11",
     "@tailwindcss/vite": "^4.3.5",
     "react": "^19.3.1",
     "react-dom": "^19.3.1",
-    "tailwindcss": "^4.3.5"
+    "tailwindcss": "^4.3.5",
+    "zod": "^4.6.7"
   },
   "devDependencies": {
     "@babel/core": "^7.29.7",
